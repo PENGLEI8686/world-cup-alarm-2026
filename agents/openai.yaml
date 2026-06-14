@@ -1,5 +1,5 @@
 interface:
   display_name: "2026世界杯闹钟"
-  short_description: "帮中国球迷判断哪场世界杯比赛值得定闹钟。"
+  short_description: "按球队和球员偏好筛选值得熬夜的世界杯场次。"
   brand_color: "#0F766E"
   default_prompt: "启用世界杯闹钟"
