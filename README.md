@@ -30,7 +30,7 @@
 推荐使用 npx 一键安装：
 
 ```bash
-npx world-cup-alarm-2026
+npx @breaker_witt/world-cup-alarm-2026
 ```
 
 安装完成后，重启 Codex，或在 Codex app 中使用 **Force Reload Skills**。
@@ -38,7 +38,7 @@ npx world-cup-alarm-2026
 如果已经安装过旧版本，可以覆盖安装：
 
 ```bash
-npx world-cup-alarm-2026 -- --force
+npx @breaker_witt/world-cup-alarm-2026 -- --force
 ```
 
 如果你不想使用 npx，也可以直接 clone 到 Codex skills 目录：
