@@ -22,7 +22,7 @@
     "世界杯"
   ],
   "bin": {
-    "world-cup-alarm-2026": "./bin/install.js"
+    "world-cup-alarm-2026": "bin/install.js"
   },
   "files": [
     "SKILL.md",
