@@ -1,0 +1,41 @@
+{
+  "name": "world-cup-alarm-2026",
+  "version": "0.1.0",
+  "description": "2026世界杯观赛闹钟规划师：按球队和球员偏好筛选值得熬夜的场次。",
+  "license": "MIT",
+  "author": "PENGLEI8686",
+  "homepage": "https://github.com/PENGLEI8686/world-cup-alarm-2026#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PENGLEI8686/world-cup-alarm-2026.git"
+  },
+  "bugs": {
+    "url": "https://github.com/PENGLEI8686/world-cup-alarm-2026/issues"
+  },
+  "keywords": [
+    "codex",
+    "skill",
+    "agent-skill",
+    "world-cup",
+    "alarm",
+    "football",
+    "世界杯"
+  ],
+  "bin": {
+    "world-cup-alarm-2026": "./bin/install.js"
+  },
+  "files": [
+    "SKILL.md",
+    "references/",
+    "agents/",
+    "bin/",
+    "README.md",
+    "LICENSE"
+  ],
+  "engines": {
+    "node": ">=18"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}
