@@ -1,0 +1,5 @@
+interface:
+  display_name: "2026世界杯闹钟"
+  short_description: "帮中国球迷判断哪场世界杯比赛值得定闹钟。"
+  brand_color: "#0F766E"
+  default_prompt: "启用世界杯闹钟"
